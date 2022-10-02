@@ -1,0 +1,5 @@
+This initiable set of functions works to:
+1. Compile geolocations from dataset(s) taken from  a series of pictures in JPEG. 
+2. Organize the geolocations according to desired use - creating textured 3D visualizations,
+  locating specified/filtered area types (proximity to uni- or multi-points, etc?), updating simu-link databases, etc?
+3. Query and Parse JPEG metadata in relation to geolocation 
